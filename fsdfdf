@@ -1,0 +1,109 @@
+[33mcommit 5756f9a4446a6fa315f9cca227bd733811ab86d8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 19:39:31 2019 +0800
+
+    add version1.1change
+
+[33mcommit d98a357edac258a9e5502d429f55358ccc34df87[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 19:35:35 2019 +0800
+
+    add version1.1
+
+[33mcommit e84160e9beae06c240d0df3f5f867b28ad541f9d[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 19:30:23 2019 +0800
+
+    commit version1
+
+[33mcommit 9bef6ffac641af08c38cfa4102e2444e81b3bc0f[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 19:21:07 2019 +0800
+
+    delete three
+
+[33mcommit 736c77406b37062afcf17a304fe88246c24f720b[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 19:19:37 2019 +0800
+
+    delete three
+
+[33mcommit 6e523b3fbf7a4d7324246bf72840d5384c0b0bd3[m
+Merge: 993c7d8 ed9f2b9
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 15:52:46 2019 +0800
+
+    resolve conflict
+
+[33mcommit 993c7d87fa993e825ab336cbd7e23b0098867706[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 15:50:46 2019 +0800
+
+    master change
+
+[33mcommit ed9f2b92885a88d93765c01b82e125680a3ae239[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 15:49:29 2019 +0800
+
+    change
+
+[33mcommit aac17a95a8efc7367ee5d8b01ac1fe844387fb1b[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 15:48:30 2019 +0800
+
+    add dd3
+
+[33mcommit 6cb4f193d86d6d9911612d9bcd5084513734c32e[m
+Merge: c2bb62f 157c174
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 15:45:28 2019 +0800
+
+    Merge branch 'dev'
+
+[33mcommit 157c1749fae80c78d43b287ffd52ce13026c1899[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 15:45:02 2019 +0800
+
+    add dd2
+
+[33mcommit a365998a97cce8dfef87292951b1f0aa9f754926[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 15:43:27 2019 +0800
+
+    dev add
+
+[33mcommit c2bb62f19ebf4e1336cf97aa60b652eb768e2f6c[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 15:40:26 2019 +0800
+
+    all
+
+[33mcommit 9361302232df4793e40c19946fe8940e6f2eb292[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 15:30:52 2019 +0800
+
+    tijiao
+
+[33mcommit bef7aab4a401a71c59bd855879fdb6a5f87dcdc9[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 11:33:25 2019 +0800
+
+    dhis
+
+[33mcommit da2d63581eddf4aca71fe7084c899e7f61f896f2[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 10:54:03 2019 +0800
+
+    this is a text
+
+[33mcommit 07b843cdbad6795655c80434623e488fe87c54da[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 10:53:42 2019 +0800
+
+    this is a text
+
+[33mcommit abc90daa44252d7a8f1112ed5cfd65b868738b04[m
+Author: xuan <1065780700@qq.com>
+Date:   Fri Sep 27 10:47:45 2019 +0800
+
+    this is a text
